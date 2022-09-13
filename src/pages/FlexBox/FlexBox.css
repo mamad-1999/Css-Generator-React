@@ -1,0 +1,11 @@
+.flex-preview-box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.flex-preview-box h2 {
+    padding: 8px;
+}
+.flex-code-box {
+    height: auto;
+}

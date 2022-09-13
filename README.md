@@ -1,6 +1,7 @@
 # Css Generator 😃
 
 Packages used in Project :
+
 - React Router Dom
 - Framer Motion
 - react-color
@@ -8,16 +9,17 @@ Packages used in Project :
 - react-awesome-button
 
 # Preview
-![Screenshot from 2022-04-20 19-32-06](https://user-images.githubusercontent.com/91375726/164261696-fa262df0-e712-48ea-8d04-daccd9141cfc.png)
 
+![Screenshot from 2022-04-20 19-32-06](https://user-images.githubusercontent.com/91375726/164261696-fa262df0-e712-48ea-8d04-daccd9141cfc.png)
 
 # Tools 🔨
 
- **Background tools :** 
+**Background tools :**
+
 - Background-color
 - Background-gradient
 
- **Box tools :**
+  **Box tools :**
 
 - Box-Shadow
 - Border
@@ -34,10 +36,10 @@ Packages used in Project :
 - Line-height
 - Text-align
 - Font-weight
-- Other tools are ***coming  Soon*** 😉
-
+- Other tools are **_coming Soon_** 😉
 
 **Transform tools**
+
 - TranslateX
 - TranslateY
 - ScaleX
@@ -58,7 +60,9 @@ Packages used in Project :
 - Sepia
 - drop-shadow
 
-##   How to run project 
+**FlexBox**
+
+## How to run project
 
 Clone the project
 
