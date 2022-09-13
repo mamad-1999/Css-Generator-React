@@ -68,8 +68,10 @@
     display: flex;
     align-items: center;
     color: #fff;
+    margin-top: 5px;
     box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
 }
+
 
 .copyBtn {
     width: 500px;
@@ -81,6 +83,11 @@
     border: none;
     background: linear-gradient(222deg, rgba(94,1,152,1) 0%, rgba(197,18,205,1) 100%);
     color: #fff;
+    transition: all .3s ease;
+}
+
+.copyBtn:hover{
+    letter-spacing: 3px;
 }
 
 .code_box span {

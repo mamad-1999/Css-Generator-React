@@ -1,5 +1,4 @@
 import React, { useContext, useState } from 'react'
-import './Backgroundcolor.css'
 import './../generalStyle.css'
 import copyed from '../../func'
 import { motion } from 'framer-motion'
